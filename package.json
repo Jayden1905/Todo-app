@@ -1,0 +1,14 @@
+{
+  "name": "todo",
+  "version": "1.0.0",
+  "description": "Simple Todo app",
+  "main": "script.js",
+  "scripts": {
+    "scss-compile": "node-sass --watch style.scss -o style"
+  },
+  "author": "Jayden",
+  "license": "MIT",
+  "dependencies": {
+    "node-sass": "^7.0.3"
+  }
+}
